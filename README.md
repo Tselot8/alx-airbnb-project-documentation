@@ -1,1 +1,4 @@
 # Airbnb clone project documentation
+
+## Overview
+The Airbnb Clone project documentation serves as a comprehensive guide, providing a robust foundation for developing a scalable backend system that mirrors the core functionalities of a platform like Airbnb. This resource encompasses a variety of diagrams and detailed requirements, weaving together user management, property listings, booking processes, payment handling, and administrative oversight into a cohesive narrative. Updated to reflect the project's objective, it offers a holistic view of the system's design, ensuring alignment with its evolving needs and providing a clear roadmap for developers, stakeholders, and administrators alike. This documentation, aligned with the project schema, serves as a central reference, offering in-depth guidance for implementation and future enhancements as of the latest update.
